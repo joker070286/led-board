@@ -3424,7 +3424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_SMDSocket_SmallPads"
 			(at 111.76 86.36 0)
 			(effects
 				(font
